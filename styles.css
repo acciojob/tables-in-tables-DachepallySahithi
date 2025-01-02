@@ -1,8 +1,5 @@
 /* Your CSS Code here. */
-<style>
 table, th, td {
 	border: 2px solid black;
 	border-collapse: collapse;
-	margin: 10px;
 }
-</style>
